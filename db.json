@@ -43,6 +43,10 @@
       "img_url": "http://books.google.com/books/content?id=xTSmAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
+          "id": 1,
+          "username": "pouros"
+        },
+        {
           "id": 8,
           "username": "goodwin"
         },
@@ -74,6 +78,10 @@
       "description": "FIGHTING TO SURVIVE Nia Sharpe never expected to get caught in the crosshairs of a drug war. But with the return of her criminal brother, her life is suddenly on the line. Thankfully, her handsome boss, Aiden McBride, is there when she needs him most. Nia knows Aiden is still reeling from his past, so when the war vet steps in to keep her safe, Nia is touched by his heroic actions. Now staying ahead of the bad guys is their best chance of surviving. But watching Aiden fight for her—for them—gives her hope that they could share more than just this deadly situation. Perhaps they could share a future… Echo Mountain: Saving lives and finding love in the mountains of Washington State",
       "img_url": "http://books.google.com/books/content?id=bNYgCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
+        {
+          "id": 1,
+          "username": "pouros"
+        },
         {
           "id": 10,
           "username": "macejkovic"
@@ -166,6 +174,10 @@
       "description": "Five short tales, including 'Plumbing for Willy' and 'Death on the Cape,' follow the adventures of a former cleaning woman and her occasionally befuddled mate",
       "img_url": "http://books.google.com/books/content?id=dK5Gx6vbV2YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
+        {
+          "id": 1,
+          "username": "pouros"
+        },
         {
           "id": 8,
           "username": "goodwin"
